@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Tensorflow and Operating Systems
 - 💞️ I’m looking to collaborate on any open source repository that I can connect to.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Vim and Souls Games.
+- ⚡ Fun fact: I love Vim, Souls Games and you guessed it, poker.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KingCassino&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
