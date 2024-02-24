@@ -1,7 +1,6 @@
 
 ![Cassino Banner](Cassino.png)
 
-- 👋 Hi, I’m @KingCassino
 - 👀 I’m interested in Machine Learning, Data Science, Computer Vision, Algorithms and Computer Science
 - 🌱 I’m currently learning Tensorflow and Operating Systems
 - 💞️ I’m looking to collaborate on any open source repository that I can connect to.
