@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning Tensorflow and Operating Systems
 - 💞️ I’m looking to collaborate on any open source repository that I can connect to.
 - ⚡ Fun fact: I love Souls Games and you guessed it, **poker**.
-- 
+- 🔄 Web developer turned Machine Learning Engineer
+
+
 ![Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Badge](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
