@@ -1,11 +1,11 @@
 
 ![Cassino Banner](Cassino.png)
 
-- 👀 I’m interested in Machine Learning, Data Science, Computer Vision, Algorithms and Computer Science
-- 🌱 I’m currently learning Tensorflow and Operating Systems
+- 👀 I’m interested in Machine Learning, Data Science, Computer Vision, Algorithms and Computer Science.
+- 🌱 I’m currently learning Tensorflow and Operating Systems.
 - 💞️ I’m looking to collaborate on any open source repository that I can connect to.
 - ⚡ Fun fact: I love Souls Games and you guessed it, **poker**.
-- 🔄 Web developer turned Machine Learning Engineer
+- 🔄 Web developer turned Machine Learning Engineer.
 
 
 ![Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
